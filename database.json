@@ -3,18 +3,24 @@
     "name": "Zero Two",
     "version": "v1.0",
     "download": "https://sub4unlock.co/2usaL",
-    "image": "https://files.catbox.moe/jvci1w.jpg"
+    "image": "https://files.catbox.moe/jvci1w.jpg",
+    "bio": "Script Zero Two terbaru, ringan dan stabil",
+    "previewVideo": ""
   },
   {
-    "name": "-",
-    "version": "-",
-    "download": "https://drive.google.com/uc?export=download&id=FILEID",
-    "image": "https://i.ibb.co/Sw1PnqT/placeholder.png"
+    "name": "Placeholder Script",
+    "version": "v0.0",
+    "download": "https://sub4unlock.co/PLACEHOLDER",
+    "image": "https://i.ibb.co/Sw1PnqT/placeholder.png",
+    "bio": "Script placeholder, belum ada deskripsi",
+    "previewVideo": ""
   },
   {
     "name": "Mikasa MD",
     "version": "v1.0",
     "download": "https://www.mediafire.com/file/ysmyt3ubz9q6hab/mikasa.zip/file",
-    "image": "https://files.catbox.moe/u8pyes.jpg"
+    "image": "https://files.catbox.moe/u8pyes.jpg",
+    "bio": "Script Mikasa MD terbaru, siap digunakan",
+    "previewVideo": ""
   }
 ]
