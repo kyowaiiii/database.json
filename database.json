@@ -2,16 +2,19 @@
   {
     "name": "Zero Two",
     "version": "v1.0",
-    "download": "https://sub4unlock.co/2usaL"
+    "download": "https://sub4unlock.co/2usaL",
+    "image": "https://i.ibb.co/Sw1PnqT/placeholder.png"
   },
   {
-    "name": "Mikasa MD ",
-    "version": "v1.1",
-    "download": "https://drive.google.com/uc?export=download&id=FILEID"
+    "name": "-",
+    "version": "-",
+    "download": "https://drive.google.com/uc?export=download&id=FILEID",
+    "image": "https://i.ibb.co/Sw1PnqT/placeholder.png"
   },
   {
-    "name": "Mikasa MD Full",
+    "name": "Mikasa MD",
     "version": "v2.0",
-    "download": "https://www.mediafire.com/file/ysmyt3ubz9q6hab/mikasa.zip/file"
+    "download": "https://www.mediafire.com/file/ysmyt3ubz9q6hab/mikasa.zip/file",
+    "image": "https://i.ibb.co/Sw1PnqT/placeholder.png"
   }
 ]
